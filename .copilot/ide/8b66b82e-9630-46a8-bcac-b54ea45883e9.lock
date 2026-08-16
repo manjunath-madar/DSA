@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-f85b78b4-9625-4834-a033-c722e6165493.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce df286fa4-f13c-4512-9b3a-dc0c5bbe01cb"
+  },
+  "pid": 21556,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1786808216432,
+  "workspaceFolders": [
+    "c:\\Users\\Dell\\New folder (12)\\PracticeCss"
+  ],
+  "isTrusted": true
+}

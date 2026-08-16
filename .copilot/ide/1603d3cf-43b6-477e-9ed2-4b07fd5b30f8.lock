@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-5b363c7f-82ae-4ad6-a4de-b44f11f9737b.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce 1d61ac7a-893f-43d4-a75d-546a670627cf"
+  },
+  "pid": 12560,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1786895409868,
+  "workspaceFolders": [
+    "c:\\Users\\Dell\\OneDrive\\Desktop\\Webpagwlogin"
+  ],
+  "isTrusted": true
+}

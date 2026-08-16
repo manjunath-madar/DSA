@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-84703c06-9eac-4926-9777-f417d8a79057.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce e81ce082-55e3-4e65-9053-21a5deb3c8bb"
+  },
+  "pid": 21616,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1786808215995,
+  "workspaceFolders": [
+    "c:\\Users\\Dell\\Desktop\\Naukriwebpage"
+  ],
+  "isTrusted": true
+}
