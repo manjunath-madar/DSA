@@ -43,7 +43,7 @@ I am learning:
 ---
 
 ## 🔗 Connect With Me
-GitHub: https://github.com/manju43828-droid  
+GitHub: https://github.com/manjunath-madar  
 LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 
 ---
