@@ -1,26 +1,26 @@
 class Solution {
     public int findNumbers(int[] nums) {
 
-        int count = 0; 
+        int count = 0;
 
         for(int i=0; i<nums.length; i++) {
 
-            int num = nums[i];
-
             int digit = 0;
+            int number = nums[i];
 
-            while(num > 0) {
+            while(number > 0) {
+
+                number = number / 10;
                 digit++;
-                num /= 10;
+
             }
 
             if(digit % 2 == 0) {
-
                 count++;
             }
         }
 
         return count;
-        
+
     }
 }
