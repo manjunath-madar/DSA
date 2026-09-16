@@ -1,17 +1,14 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
         
-        int ans = nums.length * 2;
+        int ans[] = new int[nums.length + nums.length];
 
-        int prefix[] = new int[ans];
-
-        for(int i=0; i<nums.length; i++) {
-
-            prefix[i] = nums[i];
-
-            prefix[i + nums.length] = nums[i];
+        for(int i=0; i<nums.length ; i++) {
+            ans[i] = nums[i];
+            ans[i+nums.length] = nums[i];
         }
 
-        return prefix;
+        return ans;
+
     }
 }
