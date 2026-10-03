@@ -3,16 +3,14 @@ class Solution {
 
         int count = 0;
 
-        for(int i=0; i<nums.length; i++) {
+        for(int num : nums) {
 
             int digit = 0;
-            int number = nums[i];
 
-            while(number > 0) {
-
-                number = number / 10;
+            while(num > 0) {
+                
+                num = num / 10;
                 digit++;
-
             }
 
             if(digit % 2 == 0) {
@@ -21,6 +19,6 @@ class Solution {
         }
 
         return count;
-
+        
     }
 }
