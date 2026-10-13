@@ -1,13 +1,19 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
-        
-        int x = n ^ (n >> 1);
 
-        if((x & (x + 1)) == 0) {
-            return true;
+        while(n > 0) {
+
+            int lastBit = n & 1;
+            n = n >> 1;
+
+            int currBit = n & 1;
+
+            if(lastBit == currBit) {
+                return false;
+            
+            }
         }
 
-        return false;
-
+       return true;   
     }
 }
