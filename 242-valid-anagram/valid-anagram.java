@@ -5,23 +5,28 @@ class Solution {
             return false;
         }
 
-        int freq[] = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
 
         for(int i=0; i<s.length(); i++) {
             
-            freq[s.charAt(i) - 'a']++;
-            freq[t.charAt(i) - 'a']--;
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
 
+            map.put(ch1, map.getOrDefault(ch1, 0) + 1);
+            map.put(ch2, map.getOrDefault(ch2, 0) - 1);
         }
+        
+        for(int i=0; i<s.length(); i++) {
 
-        for(int i=0; i<26; i++) {
+            char ch = s.charAt(i);
 
-            if(freq[i] != 0) {
+            if(map.get(ch) != 0) {
+
                 return false;
+
             }
         }
 
         return true;
-        
     }
 }
