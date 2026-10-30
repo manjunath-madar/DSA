@@ -49,3 +49,19 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 ---
 
 ⭐ Thanks for visiting my repository!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
+<!---LeetCode Topics End-->
