@@ -55,6 +55,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 ## Bit Manipulation
@@ -69,9 +70,18 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
