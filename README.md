@@ -59,6 +59,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/manjunath-madar/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/manjunath-madar/DSA/tree/master/2683-neighboring-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -67,6 +68,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/manjunath-madar/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/manjunath-madar/DSA/tree/master/2683-neighboring-bitwise-xor) |
 ## Prefix Sum
 |  |
@@ -107,4 +109,8 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/manjunath-madar/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
