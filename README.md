@@ -58,6 +58,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/manjunath-madar/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/manjunath-madar/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/manjunath-madar/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
