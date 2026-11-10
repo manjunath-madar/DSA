@@ -57,6 +57,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manjunath-madar/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -68,6 +69,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | ------- |
 | [0397-integer-replacement](https://github.com/manjunath-madar/DSA/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/manjunath-madar/DSA/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -101,6 +103,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/manjunath-madar/DSA/tree/master/0397-integer-replacement) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
 |  |
 | ------- |
