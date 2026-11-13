@@ -97,6 +97,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/manjunath-madar/DSA/tree/master/0412-fizz-buzz) |
 | [1542-find-longest-awesome-substring](https://github.com/manjunath-madar/DSA/tree/master/1542-find-longest-awesome-substring) |
 ## Sorting
 |  |
@@ -118,6 +119,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/manjunath-madar/DSA/tree/master/0412-fizz-buzz) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/manjunath-madar/DSA/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/manjunath-madar/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -138,4 +140,8 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/manjunath-madar/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/manjunath-madar/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
