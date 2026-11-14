@@ -56,6 +56,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/manjunath-madar/DSA/tree/master/0118-pascals-triangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -106,6 +107,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/manjunath-madar/DSA/tree/master/0118-pascals-triangle) |
 | [0397-integer-replacement](https://github.com/manjunath-madar/DSA/tree/master/0397-integer-replacement) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
