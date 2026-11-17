@@ -57,6 +57,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/manjunath-madar/DSA/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manjunath-madar/DSA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -87,6 +88,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1542-find-longest-awesome-substring](https://github.com/manjunath-madar/DSA/tree/master/1542-find-longest-awesome-substring) |
@@ -104,6 +106,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,4 +149,16 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/manjunath-madar/DSA/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
