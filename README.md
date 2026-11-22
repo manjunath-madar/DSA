@@ -59,6 +59,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | [0118-pascals-triangle](https://github.com/manjunath-madar/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/manjunath-madar/DSA/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/manjunath-madar/DSA/tree/master/0705-design-hashset) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -93,6 +94,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/manjunath-madar/DSA/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/manjunath-madar/DSA/tree/master/0705-design-hashset) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/manjunath-madar/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -112,6 +114,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
