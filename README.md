@@ -56,6 +56,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/manjunath-madar/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/manjunath-madar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/manjunath-madar/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manjunath-madar/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -116,6 +117,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjunath-madar/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/manjunath-madar/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/manjunath-madar/DSA/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
@@ -190,4 +192,8 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/manjunath-madar/DSA/tree/master/0073-set-matrix-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/manjunath-madar/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
