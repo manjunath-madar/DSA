@@ -64,6 +64,7 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manjunath-madar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/manjunath-madar/DSA/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/manjunath-madar/DSA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/manjunath-madar/DSA/tree/master/0705-design-hashset) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manjunath-madar/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/manjunath-madar/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -196,4 +197,8 @@ LinkedIn: www.linkedin.com/in/manjunath-m-266251401
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/manjunath-madar/DSA/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/manjunath-madar/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
